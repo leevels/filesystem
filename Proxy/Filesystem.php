@@ -18,12 +18,12 @@ declare(strict_types=1);
  * file that was distributed with this source code.
  */
 
-namespace Leevel\Filesystem\Facade;
+namespace Leevel\Filesystem\Proxy;
 
 use Leevel\Di\Container;
 
 /**
- * 门面 filesystem.
+ * 代理 filesystem.
  *
  * @author Xiangmin Liu <635750556@qq.com>
  *
